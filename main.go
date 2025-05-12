@@ -19,4 +19,11 @@ func main() {
 	usecase.StructJsonDecode()
 	usecase.ArrayJsonDecode()
 	usecase.StructArrayJsonDecode()
+
+	fmt.Println()
+	fmt.Println("===========================")
+	fmt.Println()
+
+	usecase.StreamDecoder()
+	usecase.StreamEncoder()
 }

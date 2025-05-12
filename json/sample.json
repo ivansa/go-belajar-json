@@ -1,0 +1,15 @@
+{
+  "name": "Ivans Ardiansyah",
+  "age": 30,
+  "married": true,
+    "address": {
+        "street": "Jl. Kebon Jeruk",
+        "city": "Jakarta",
+        "postalCode": "11530"
+    },
+  "hobbies": [
+    "reading",
+    "gaming",
+    "coding"
+  ]
+}
